@@ -22,12 +22,11 @@
 
 ```yaml
 education:  B.Tech Computer Science & Engineering, Amrita Vishwa Vidyapeetham (2023–2027)
-cgpa:       8.94
-focus:      AI/ML for Healthcare · Cloud-Native Systems · Backend Engineering
+
+focus:      AI/ML  · Cloud-Native Systems · Backend Engineering
 research:   "Multimodal Hybrid Deep Learning for Early Dementia Detection" — ICAEM 2026
 awards:     🏆 Winner, Epochon Hackathon (ACM Amritapuri, 2024)
             🥈 Finalist, CMR Hackathon Hyderabad — Top 60 of 1000+ teams
-certs:      Generative AI (Microsoft & LinkedIn Learning) · ML Foundations (Kaggle, DataCamp)
 ```
 
 <br/>
