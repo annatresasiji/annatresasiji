@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:4361EE&height=200&section=header&text=Anna%20Tresa%20Siji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20%7C%20AI%2FML%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18&fontFamily=Baloo+2" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=700&size=42&duration=1&pause=100000&color=4361EE&center=true&vCenter=true&width=500&height=60&lines=Anna+Tresa+Siji" alt="Anna Tresa Siji"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=1&pause=100000&color=6B7280&center=true&vCenter=true&width=550&height=30&lines=CSE+Undergrad+%7C+AI%2FML+%26+Full-Stack+Developer" alt="tagline-role"/>
+
+<br/>
 
 <a href="mailto:annatresasiji@gmail.com"><img src="https://img.shields.io/badge/annatresasiji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kerala,%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -66,73 +70,10 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=divider"/>
+---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=700&size=26&duration=1&pause=100000&color=4361EE&center=true&vCenter=true&width=380&height=40&lines=%F0%9F%93%8C+Featured+Projects" alt="Featured Projects"/></h2>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Multimodal Parkinson's Disease Detection
-**EfficientNet-B0 + BiGRU · TensorFlow · Pandas**
-
-ETL pipeline fusing DaTSCAN SPECT imaging with longitudinal clinical data from the PPMI dataset; automated multimodal deep learning training & evaluation.
-
-🔗 [View Repo](https://github.com/annatresasiji/Parkinsons_detection_hybrid_-model-)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏡 RuralCare — AI Healthcare Platform
-**React.js · Node.js · Express.js · PostgreSQL · GCP**
-
-Cloud-native emergency healthcare platform with AI-assisted symptom analysis, emergency response, and secure medical record management.
-
-🔗 [View Repo](https://github.com/annatresasiji/RuralCare)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 AmSpace — Campus Management Platform
-**Next.js · PostgreSQL · REST APIs**
-
-Full-stack platform unifying academic, administrative, and community services with secure auth and role-based access control, deployed on Vercel.
-
-🔗 [View Repo](https://github.com/Aakashchoudhary24/AmSpace)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚨 HelpMeNow — Emergency Response Platform
-**Flask · OpenAI API · Firebase**
-
-AI-enabled emergency platform with SOS alerts, live tracking, and a multilingual LLM chatbot built via prompt engineering.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 Dementia Screening Tool
-**Machine Learning · Web App**
-
-ML-powered web app that predicts dementia likelihood from patient data to support early screening.
-
-🔗 [View Repo](https://github.com/annatresasiji/Screening_tool_for_dementia)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Research Publication
-**ICAEM 2026**
-
-*Multimodal Hybrid Deep Learning Framework for Early Dementia Detection* — integrating MRI imaging and cognitive assessment data via data-driven feature fusion.
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361EE,100:F72585&height=100&section=footer" width="100%"/>
+<div align="center">
+<sub>Thanks for stopping by! ✨</sub>
+</div>
