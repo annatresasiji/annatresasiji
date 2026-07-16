@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:4361EE&height=200&section=header&text=Anna%20Tresa%20Siji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20%7C%20AI%2FML%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
 
 <a href="mailto:annatresasiji@gmail.com"><img src="https://img.shields.io/badge/annatresasiji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:+919645060233"><img src="https://img.shields.io/badge/+91--9645060233-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Kerala,%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <a href="https://linkedin.com/in/anna-tresa-siji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
