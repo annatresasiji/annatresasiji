@@ -1,84 +1,144 @@
-<h1 align="center">Anna Tresa Siji</h1>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:annatresasiji@gmail.com">annatresasiji@gmail.com</a> ~|~
-  +91-9645060233 ~|~
-  Kerala, India<br/>
-  <a href="https://linkedin.com/in/anna-tresa-siji">linkedin.com/in/anna-tresa-siji</a> ~|~
-  <a href="https://github.com/annatresasiji">github.com/annatresasiji</a> ~|~
-  <a href="https://www.geeksforgeeks.org/user/annatrelz4o/">GeeksforGeeks</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:4361EE&height=200&section=header&text=Anna%20Tresa%20Siji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20%7C%20AI%2FML%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/anna-tresa-siji"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:annatresasiji@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/annatrelz4o/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
+<a href="mailto:annatresasiji@gmail.com"><img src="https://img.shields.io/badge/annatresasiji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+919645060233"><img src="https://img.shields.io/badge/+91--9645060233-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kerala,%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
----
+<a href="https://linkedin.com/in/anna-tresa-siji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/annatresasiji"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/annatrelz4o/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
-### 🚀 About Me
-- 🎓 CSE undergrad at Amrita Vishwa Vidyapeetham (CGPA: 8.94), Class of 2027
-- 🧠 Building AI-powered healthcare software — multimodal deep learning for Parkinson's & dementia detection
-- ☁️ Experienced in cloud-native backend systems, REST APIs, and scalable data pipelines (GCP, Docker, PostgreSQL)
-- 🏆 Winner, Epochon Hackathon (AI/ML) — ACM Amritapuri 2024 | Top 60/1000+ teams, CMR Hackathon 2024
-- 📝 Published research at ICAEM 2026 on multimodal deep learning for early dementia detection
-- 📫 Reach me on LinkedIn or via email
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=4361EE&center=true&vCenter=true&width=650&lines=Building+AI+for+Healthcare+%F0%9F%A9%BA;Multimodal+Deep+Learning+Researcher;Cloud-Native+Backend+Engineer;CGPA%3A+8.94+%40+Amrita+Vishwa+Vidyapeetham" alt="Typing SVG"/>
 
-### 🛠️ Languages & Tools
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+```yaml
+education:  B.Tech Computer Science & Engineering, Amrita Vishwa Vidyapeetham (2023–2027)
+cgpa:       8.94
+focus:      AI/ML for Healthcare · Cloud-Native Systems · Backend Engineering
+research:   "Multimodal Hybrid Deep Learning for Early Dementia Detection" — ICAEM 2026
+awards:     🏆 Winner, Epochon Hackathon (ACM Amritapuri, 2024)
+            🥈 Finalist, CMR Hackathon Hyderabad — Top 60 of 1000+ teams
+certs:      Generative AI (Microsoft & LinkedIn Learning) · ML Foundations (Kaggle, DataCamp)
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,postgres" />
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/><br/>
 
 **Data Engineering**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,postgres" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/><br/>
 
 **Cloud & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,firebase,flask,nodejs,express,docker" />
 
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br/><br/>
 
-**AI/ML & LLM**
+**AI / ML / LLM**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+<br/><br/>
 
-**Frontend**
+**Frontend & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,git,github" />
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+</div>
 
-**Tools**
+<br/>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=divider"/>
 
----
+## 📌 Featured Projects
 
-### 📌 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🧠 **[Multimodal Parkinson's Disease Detection](https://github.com/annatresasiji/Parkinsons_detection_hybrid_-model-)** — EfficientNet-B0 + BiGRU deep learning framework fusing DaTSCAN SPECT imaging with clinical data from the PPMI dataset
-- 🏡 **[RuralCare](https://github.com/annatresasiji/RuralCare)** — Cloud-native AI healthcare platform (React.js, Node.js, Express.js, PostgreSQL, GCP) for symptom analysis and emergency response
-- 🎓 **[AmSpace](https://github.com/Aakashchoudhary24/AmSpace)** — Unified campus management platform (Next.js, PostgreSQL, REST APIs) with secure auth and RBAC
-- 🚨 **HelpMeNow** — AI-powered emergency response platform (Flask, OpenAI API, Firebase) with SOS alerts and multilingual LLM chatbot assistance
-- 🧬 **[Screening_tool_for_dementia](https://github.com/annatresasiji/Screening_tool_for_dementia)** — Web app using ML to predict dementia likelihood from patient data
+### 🧠 Multimodal Parkinson's Disease Detection
+**EfficientNet-B0 + BiGRU · TensorFlow · Pandas**
 
----
+ETL pipeline fusing DaTSCAN SPECT imaging with longitudinal clinical data from the PPMI dataset; automated multimodal deep learning training & evaluation.
 
-### 📝 Research
-- **Multimodal Hybrid Deep Learning Framework for Early Dementia Detection** — ICAEM 2026 (3rd Intl. Conf. on Advances in Engineering & Medical Sciences)
+🔗 [View Repo](https://github.com/annatresasiji/Parkinsons_detection_hybrid_-model-)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 RuralCare — AI Healthcare Platform
+**React.js · Node.js · Express.js · PostgreSQL · GCP**
+
+Cloud-native emergency healthcare platform with AI-assisted symptom analysis, emergency response, and secure medical record management.
+
+🔗 [View Repo](https://github.com/annatresasiji/RuralCare)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 AmSpace — Campus Management Platform
+**Next.js · PostgreSQL · REST APIs**
+
+Full-stack platform unifying academic, administrative, and community services with secure auth and role-based access control, deployed on Vercel.
+
+🔗 [View Repo](https://github.com/Aakashchoudhary24/AmSpace)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚨 HelpMeNow — Emergency Response Platform
+**Flask · OpenAI API · Firebase**
+
+AI-enabled emergency platform with SOS alerts, live tracking, and a multilingual LLM chatbot built via prompt engineering.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Dementia Screening Tool
+**Machine Learning · Web App**
+
+ML-powered web app that predicts dementia likelihood from patient data to support early screening.
+
+🔗 [View Repo](https://github.com/annatresasiji/Screening_tool_for_dementia)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Research Publication
+**ICAEM 2026**
+
+*Multimodal Hybrid Deep Learning Framework for Early Dementia Detection* — integrating MRI imaging and cognitive assessment data via data-driven feature fusion.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361EE,100:F72585&height=100&section=footer" width="100%"/>
